@@ -1,0 +1,34 @@
+header {
+    background-color: rgb(78, 104, 223);
+    color: black;
+    padding: 20px;
+    text-align: center;
+    margin: 0 1.5cm;
+}
+.polinização {
+    background-color: rgb(231, 231, 61);
+    margin: 0 1.5cm;
+    font-size: 16px;
+    color: white;
+}
+.regiões {
+    background-color: rgb(78, 104, 223);
+    margin: 0 1.5cm;
+    font-size: 16px;
+    color: black;
+
+}
+.empresas {
+    background-color: rgb(231, 231, 61);
+    margin: 0 1.5cm;
+    font-size: 16px;
+    color: white;
+}
+footer {
+    background-color: rgb(78, 104, 223);
+    color: black;
+    padding: 10px;
+    text-align: center;
+    margin: 0 1.5cm;
+    font-size: 14px;
+}
